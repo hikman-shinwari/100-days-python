@@ -4,12 +4,16 @@ I’m learning Python step by step and uploading my daily progress here.
 
 ## ✅ Progress
 - [Day 01 - Python Basics](Day%2001%20-%20Python%20Basics)
+- [Day 02 - Data Types](Day%2002%20-%20Data%20Types)
+  
 - ## 📅 Progress Table
 
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01  | Python Basics (print, input, len, swap, mini project) | ✅ Done |
-| 02  | String Manipulation | ⏳ Next |
+| 02  | Data Types + Tip Calculator | ✅ Done |
+| 03  | String Manipulation | ⏳ Next |
+
 
 
 ## Day 01 Topics
