@@ -58,7 +58,12 @@ I’m learning Python step by step and uploading my daily progress here.
 
 
 ## How to run
-Open any day folder and run the Python file:
+
+### Option A: Run a file inside a day folder
+1) Open a day folder
+2) Run the file:
+
 ```bash
-python day01_python_basics.py
+python filename.py
+
 
