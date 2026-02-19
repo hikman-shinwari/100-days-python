@@ -25,5 +25,10 @@
 - `day04_randomisation_projects.py` — all Day 04 code in one file
 
 ## How to run
+
 ```bash
-python day04_randomisation_projects.py
+cd "Day 04 - Randomisation"
+python heads_or_tails.py
+python banker_roulette.py
+python list_indexing_practice.py
+python rock_paper_scissors.py
