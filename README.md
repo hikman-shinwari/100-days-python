@@ -32,6 +32,31 @@ I’m learning Python step by step and uploading my daily progress here.
 - Swapping variables
 - Mini project: Band Name Generator
 
+## Day 02 Topics
+- Data types: `str`, `int`, `float`, `bool`
+- Type conversion: `int()`, `float()`, `str()`
+- Math operations and order (PEMDAS)
+- Rounding with `round()`
+- f-strings for clean output
+- Mini project: Tip Calculator
+
+## Day 03 Topics
+- Conditional statements: `if`, `elif`, `else`
+- Comparison operators: `==`, `!=`, `>`, `<`, `>=`, `<=`
+- Logical operators: `and`, `or`, `not`
+- Modulo `%` (odd/even checks)
+- Nested conditions
+- Mini projects / exercises (control flow practice)
+
+
+## Day 04 Topics
+- `random.randint()` and `random.choice()`
+- Lists: create, access, and update
+- Indexing & negative indexing (`-1`)
+- Nested lists (lists inside lists)
+- Mini projects: Heads or Tails, Banker Roulette, Rock Paper Scissors
+
+
 ## How to run
 Open any day folder and run the Python file:
 ```bash
