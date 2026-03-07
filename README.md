@@ -57,6 +57,27 @@ I’m learning Python step by step and uploading my daily progress here.
 - Mini projects: Heads or Tails, Banker Roulette, Rock Paper Scissors
 
 
+# Day 05 - Loops
+
+## What I Learned
+
+- `for` loops in Python
+- Looping through lists
+- Using `range()`
+- Adding numbers with loops
+- Finding the highest value in a list
+- Mini project: Password Generator
+
+---
+
+## Mini Projects / Exercises
+
+- Average Height
+- Highest Score
+- Adding Even Numbers
+- Password Generator
+
+
 ## How to run
 
 ### Option A: Run a file inside a day folder
