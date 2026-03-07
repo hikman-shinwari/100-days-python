@@ -80,6 +80,28 @@ I’m learning Python step by step and uploading my daily progress here.
 - Password Generator
 
 
+# Day 06 - Functions
+
+## What I Learned
+
+- How to create and call functions
+- Function parameters and arguments
+- Reusing code with functions
+- Using `math.ceil()`
+- Checking prime numbers with loops
+- Mini projects: Paint Area Calculator, Prime Checker
+
+---
+
+## Mini Projects / Exercises
+
+- Paint Area Calculator
+- Prime Checker
+
+---
+
+
+
 ## How to run
 
 ### Option A: Run a file inside a day folder
