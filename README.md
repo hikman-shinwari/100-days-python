@@ -104,12 +104,14 @@ I’m learning Python step by step and uploading my daily progress here.
 ---
 
 
-## Day 07 Topics
+# Day 07 - Hangman
+
+## What I Learned
 
 - `while` loops for game flow
 - Conditional logic with `if`, `elif`, `else`
 - Tracking guessed letters with lists
-- Importing from other files
+- Importing from other Python files
 - Building strings step by step
 - Mini project: Hangman
 
