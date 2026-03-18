@@ -19,20 +19,10 @@
 
 ---
 
-## How to run
+## How to Run
 
 1. Open the `Day 07 - Hangman` folder
 2. Run:
 
 ```bash
 python main.py
-
-## Project Goal
-
-Build a beginner-friendly Hangman game that:
-- chooses a random word
-- lets the user guess letters
-- shows correct letters in the word
-- removes a life for wrong guesses
-- ends when the player wins or loses
-
