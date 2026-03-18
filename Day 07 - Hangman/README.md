@@ -26,3 +26,32 @@
 
 ```bash
 python main.py
+
+
+Project Goal
+
+Build a beginner-friendly Hangman game that:
+
+chooses a random word
+
+lets the user guess letters
+
+shows correct letters in the word
+
+removes a life for wrong guesses
+
+ends when the player wins or loses
+
+Skills Practiced
+
+Python imports
+
+Lists
+
+Loops
+
+Conditionals
+
+String handling
+
+Simple game logic
