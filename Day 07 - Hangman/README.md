@@ -1,3 +1,4 @@
+
 # Day 07 - Hangman
 
 ## What I Learned
@@ -7,7 +8,7 @@
 - Storing correct guesses in a list
 - Building and updating a display string
 - Importing from other Python files
-- Mini project: Hangman game
+- Mini project: `Hangman`
 
 ---
 
@@ -26,32 +27,85 @@
 
 ```bash
 python main.py
+````
 
+---
 
-Project Goal
+## Project Goal
 
+Build a beginner-friendly `Hangman` game that:
+
+* chooses a random word
+* lets the user guess letters
+* shows correct letters in the word
+* removes a life for wrong guesses
+* ends when the player wins or loses
+
+---
+
+## Skills Practiced
+
+* `Python imports`
+* `Lists`
+* `Loops`
+* `Conditionals`
+* `String handling`
+* `Simple game logic`
+
+````
+
+If you want it to look even **more strong and cleaner**, use this version:
+
+```md
+# Day 07 - Hangman
+
+## What I Learned
+
+- Using `while` loops to keep a game running
+- Working with conditional logic in a real project
+- Storing correct guesses in a list
+- Building and updating a display string
+- Importing from other Python files
+- Mini project: `Hangman`
+
+---
+
+## Project Files
+
+```python
+main.py
+hangman_words.py
+hangman_art.py
+````
+
+## How to Run
+
+```bash
+python main.py
+```
+
+## Project Goal
+
+```text
 Build a beginner-friendly Hangman game that:
+- chooses a random word
+- lets the user guess letters
+- shows correct letters in the word
+- removes a life for wrong guesses
+- ends when the player wins or loses
+```
 
-chooses a random word
+## Skills Practiced
 
-lets the user guess letters
-
-shows correct letters in the word
-
-removes a life for wrong guesses
-
-ends when the player wins or loses
-
-Skills Practiced
-
+```text
 Python imports
-
 Lists
-
 Loops
-
 Conditionals
-
 String handling
-
 Simple game logic
+```
+
+
+````
+
