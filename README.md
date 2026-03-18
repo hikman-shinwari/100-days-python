@@ -9,6 +9,7 @@ I’m learning Python step by step and uploading my daily progress here.
 - [Day 04 - Randomisation](Day%2004%20-%20Randomisation)
 - [Day 05 - Loops](Day%2005%20-%20Loops)
 - [Day 06 - Functions](Day%2006%20-%20Functions)
+- [Day 07 - Hangman](Day%2007%20-%20Hangman)
 
 
 
