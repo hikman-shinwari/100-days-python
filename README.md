@@ -24,6 +24,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 04  | Randomisation + Lists (random module, lists, indexing, mini projects) | ✅ Done |
 | 05  | Loops (for loops, range, list iteration, mini projects) | ✅ Done |
 | 06  | Functions (functions, parameters, reuse, mini projects) | ✅ Done |
+| 07 | Hangman (while loop, conditional logic, lists, imports, game project) | ✅ Done |
 
 
 
