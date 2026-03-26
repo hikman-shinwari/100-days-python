@@ -116,7 +116,16 @@ I’m learning Python step by step and uploading my daily progress here.
 - Building strings step by step
 - Mini project: Hangman
 
+---
 
+## Day 08 Topics
+
+- `Functions` with inputs
+- Positional vs keyword arguments
+- Reusing code with functions
+- Working with strings
+- Using loops for program flow
+- Mini project: `Caesar Cipher`
 
 ## How to run
 
