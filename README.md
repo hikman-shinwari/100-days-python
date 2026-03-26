@@ -10,6 +10,7 @@ I’m learning Python step by step and uploading my daily progress here.
 - [Day 05 - Loops](Day%2005%20-%20Loops)
 - [Day 06 - Functions](Day%2006%20-%20Functions)
 - [Day 07 - Hangman](Day%2007%20-%20Hangman)
+- [Day 08 - Function Parameters & Caesar Cipher](Day%2008%20-%20Function%20Parameters%20%26%20Caesar%20Cipher)
 
 
 
@@ -25,7 +26,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 05  | Loops (for loops, range, list iteration, mini projects) | ✅ Done |
 | 06  | Functions (functions, parameters, reuse, mini projects) | ✅ Done |
 | 07 | Hangman (while loop, conditional logic, lists, imports, game project) | ✅ Done |
-
+| 08 | Function Parameters & Caesar Cipher (`functions`, parameters, arguments, loops, basic encryption) | ✅ Done |
 
 
 
