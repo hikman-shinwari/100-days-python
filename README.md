@@ -118,14 +118,19 @@ I’m learning Python step by step and uploading my daily progress here.
 
 ---
 
-## Day 08 Topics
+# Day 08 - Function Parameters & Caesar Cipher
 
-- `Functions` with inputs
-- Positional vs keyword arguments
-- Reusing code with functions
-- Working with strings
-- Using loops for program flow
+## What I Learned
+
+- How to create functions with inputs
+- The difference between positional and keyword arguments
+- How to pass values into functions
+- How to organize logic using functions
 - Mini project: `Caesar Cipher`
+
+
+---
+
 
 ## How to run
 
