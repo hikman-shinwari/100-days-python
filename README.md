@@ -64,58 +64,38 @@ I’m learning Python step by step and uploading my daily progress here.
 - Mini projects: Heads or Tails, Banker Roulette, Rock Paper Scissors
 
 
-# Day 05 - Loops
-
-## What I Learned
+## Day 05 Topics
 
 - `for` loops in Python
-- Looping through lists
+- Looping through `lists`
 - Using `range()`
-- Adding numbers with loops
+- Summing numbers with loops
 - Finding the highest value in a list
-- Mini project: Password Generator
+- Mini project: `Password Generator`
 
 ---
 
-## Mini Projects / Exercises
 
-- Average Height
-- Highest Score
-- Adding Even Numbers
-- Password Generator
+## Day 06 Topics
 
-
-# Day 06 - Functions
-
-## What I Learned
-
-- How to create and call functions
+- Creating and calling `functions`
 - Function parameters and arguments
 - Reusing code with functions
 - Using `math.ceil()`
 - Checking prime numbers with loops
-- Mini projects: Paint Area Calculator, Prime Checker
-
----
-
-## Mini Projects / Exercises
-
-- Paint Area Calculator
-- Prime Checker
+- Mini projects: `Paint Area Calculator`, `Prime Checker`
 
 ---
 
 
-# Day 07 - Hangman
-
-## What I Learned
+## Day 07 Topics
 
 - `while` loops for game flow
 - Conditional logic with `if`, `elif`, `else`
-- Tracking guessed letters with lists
+- Tracking guessed letters with `lists`
 - Importing from other Python files
 - Building strings step by step
-- Mini project: Hangman
+- Mini project: `Hangman`
 
 ---
 
