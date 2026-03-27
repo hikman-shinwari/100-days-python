@@ -28,7 +28,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 06  | Functions (functions, parameters, reuse, mini projects) | ✅ Done |
 | 07 | Hangman (while loop, conditional logic, lists, imports, game project) | ✅ Done |
 | 08 | Function Parameters & Caesar Cipher (`functions`, parameters, arguments, loops, basic encryption) | ✅ Done |
-| 09 | Dictionaries & Blind Auction (`dictionaries`, key-value pairs, nested data, loops, auction project) | ✅ Done |
+| 09 | `Blind Auction` (`dictionaries`, key-value pairs, nested data, loops, functions) | ✅ Done |
 
 
 ## Day 01 Topics
