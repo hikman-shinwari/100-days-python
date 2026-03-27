@@ -132,6 +132,15 @@ I’m learning Python step by step and uploading my daily progress here.
 
 ---
 
+## Day 09 Topics
+
+- `Dictionaries`
+- `Key-value pairs`
+- Accessing and updating dictionary values
+- Nested `lists` and `dictionaries`
+- Using loops with dictionaries
+- Mini project: `Blind Auction`
+
 
 ## How to run
 
