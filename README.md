@@ -30,7 +30,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 07 | Hangman (while loop, conditional logic, lists, imports, game project) | ✅ Done |
 | 08 | Function Parameters & Caesar Cipher (`functions`, parameters, arguments, loops, basic encryption) | ✅ Done |
 | 09 | `Blind Auction` (`dictionaries`, key-value pairs, nested data, loops, functions) | ✅ Done |
-| 10 | Functions with Outputs & Calculator (`functions`, return values, docstrings, loops, calculator project) | ✅ Done |
+| 10 | `Calculator` (`functions`, return values, docstrings, loops, program flow) | ✅ Done |
 
 
 ## Day 01 Topics
