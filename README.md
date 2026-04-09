@@ -32,6 +32,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 08 | Function Parameters & Caesar Cipher (`functions`, parameters, arguments, loops, basic encryption) | ✅ Done |
 | 09 | `Blind Auction` (`dictionaries`, key-value pairs, nested data, loops, functions) | ✅ Done |
 | 10 | `Calculator` (`functions`, return values, docstrings, loops, program flow) | ✅ Done |
+| 11 | `Blackjack` (`functions`, lists, loops, conditionals, game logic, score comparison) | ✅ Done |
 
 
 ## Day 01 Topics
