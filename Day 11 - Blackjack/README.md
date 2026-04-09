@@ -41,4 +41,4 @@ Lists
 Loops
 Conditionals
 Game logic
-Score comparison
+Score comparison.
