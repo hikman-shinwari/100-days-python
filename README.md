@@ -122,6 +122,15 @@ I’m learning Python step by step and uploading my daily progress here.
 - Using loops with dictionaries
 - Mini project: `Blind Auction`
 
+## Day 10 Topics
+
+- `Functions` with outputs
+- Using `return` values
+- Multiple return values
+- Writing `docstrings`
+- Using loops for calculator flow
+- Mini project: `Calculator`
+
 
 ## How to run
 
