@@ -12,6 +12,7 @@ I’m learning Python step by step and uploading my daily progress here.
 - [Day 07 - Hangman](Day%2007%20-%20Hangman)
 - [Day 08 - Function Parameters & Caesar Cipher](Day%2008%20-%20Function%20Parameters%20%26%20Caesar%20Cipher)
 - [Day 09 - Dictionaries & Blind Auction](Day%2009%20-%20Dictionaries%20%26%20Blind%20Auction)
+- [Day 10 - Functions with Outputs & Calculator](Day%2010%20-%20Functions%20with%20Outputs%20%26%20Calculator)
 
 
 
