@@ -133,6 +133,15 @@ I’m learning Python step by step and uploading my daily progress here.
 - Using loops for calculator flow
 - Mini project: `Calculator`
 
+  ## Day 11 Topics
+
+- Building a full Python game
+- Using `functions` for reusable logic
+- Working with `lists` for cards
+- Using loops for game flow
+- Conditional logic for decisions
+- Mini project: `Blackjack`
+
 
 ## How to run
 
