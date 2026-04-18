@@ -14,6 +14,7 @@ I’m learning Python step by step and uploading my daily progress here.
 - [Day 09 - Dictionaries & Blind Auction](Day%2009%20-%20Dictionaries%20%26%20Blind%20Auction)
 - [Day 10 - Functions with Outputs & Calculator](Day%2010%20-%20Functions%20with%20Outputs%20%26%20Calculator)
 - [Day 11 - Blackjack](Day%2011%20-%20Blackjack)
+- [Day 12 - Scope & Number Guessing Game](Day%2012%20-%20Scope%20%26%20Number%20Guessing%20Game)
 - [Day 13 - Debugging](Day%2013%20-%20Debugging)
 
 
@@ -34,6 +35,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 10 | `Calculator` (`functions`, return values, docstrings, loops, program flow) | ✅ Done |
 | 11 | `Blackjack` (`functions`, lists, loops, conditionals, game logic, score comparison) | ✅ Done |
 | 13 | `Debugging` (`describe the problem`, `reproduce`, `fix errors`, `print debugging`) | ✅ Done |
+| 12 | `Scope & Number Guessing Game` (`scope`, `global` keyword, `constants`, random numbers) | ✅ Done |
 
 
 ## Day 01 Topics
@@ -142,6 +144,15 @@ I’m learning Python step by step and uploading my daily progress here.
 - Using loops for game flow
 - Conditional logic for decisions
 - Mini project: `Blackjack`
+
+
+
+## Day 12 Topics
+- `Scope` (local vs global)
+- Modifying `global` variables
+- `Block scope` in Python
+- `Constants` (UPPERCASE convention)
+- Mini project: `Number Guessing Game`
 
 
 ## Day 13 Topics
