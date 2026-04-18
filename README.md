@@ -14,7 +14,7 @@ I’m learning Python step by step and uploading my daily progress here.
 - [Day 09 - Dictionaries & Blind Auction](Day%2009%20-%20Dictionaries%20%26%20Blind%20Auction)
 - [Day 10 - Functions with Outputs & Calculator](Day%2010%20-%20Functions%20with%20Outputs%20%26%20Calculator)
 - [Day 11 - Blackjack](Day%2011%20-%20Blackjack)
-
+- [Day 13 - Debugging](Day%2013%20-%20Debugging)
 
 
   
@@ -33,6 +33,7 @@ I’m learning Python step by step and uploading my daily progress here.
 | 09 | `Blind Auction` (`dictionaries`, key-value pairs, nested data, loops, functions) | ✅ Done |
 | 10 | `Calculator` (`functions`, return values, docstrings, loops, program flow) | ✅ Done |
 | 11 | `Blackjack` (`functions`, lists, loops, conditionals, game logic, score comparison) | ✅ Done |
+| 13 | `Debugging` (`describe the problem`, `reproduce`, `fix errors`, `print debugging`) | ✅ Done |
 
 
 ## Day 01 Topics
@@ -142,6 +143,14 @@ I’m learning Python step by step and uploading my daily progress here.
 - Conditional logic for decisions
 - Mini project: `Blackjack`
 
+
+## Day 13 Topics
+- `Describing` the problem clearly
+- `Reproducing` the bug consistently
+- `Playing computer` — tracing code manually
+- `Fixing` syntax and logic errors
+- `Print` debugging
+- Using a `Debugger`
 
 ## How to run
 
